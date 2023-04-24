@@ -31,9 +31,11 @@ First step is to create a virtual machine (VM) in Azure. If you don't know how t
 <img src="https://i.imgur.com/B6GSnkX.png" height="80%" width="80%" alt="2."/>
 </p>
 Once you create your VM, open it using Microsoft Remote Desktop. Then download and install ProtonVPN to the VM. 
+
 <p></p>
-Then open a new web browser and visit [WhatsMyIPAddress](https://whatismyipaddress.com).
+Then open a new web browser and visit (https://whatismyipaddress.com)
 <p></p>
+
 Take note of the IP address and where it's located. The IP address for my VM was 4.233.131.23 and located in Paris, France. 
 <p>
 <img src="https://i.imgur.com/EbY7tMr.png" height="80%" width="80%" alt="3."/>
