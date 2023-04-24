@@ -43,7 +43,6 @@ Take note of the IP address and where it's located. The IP address for my VM was
 </p>
 
 <p>
-<img src="https://i.imgur.com/rHxCsQr.png" height="80%" width="80%" alt="5."/>
 <img src="https://i.imgur.com/vAMmQeg.png" height="80%" width="80%" alt="5."/>
 </p>
 
