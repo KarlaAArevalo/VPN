@@ -50,13 +50,9 @@ Take note of the IP address and where it's located. The IP address for my VM was
 Once ProtonVPN is downloaded and installed, open the application. Then make a connection. I chose to connect to Japan. 
 
 <p>
-<img src="https://i.imgur.com/3qKOCYR.png" height="80%" width="80%" alt="6."/>
 <img src="https://i.imgur.com/Pc2XBOQ.png" height="80%" width="80%" alt="6."/>
 </p>
 
-<p>
-<img src="https://i.imgur.com/ANBBgjg.png" height="80%" width="80%" alt="7."/>
-<img src="https://i.imgur.com/f7p0ScE.png" height="80%" width="80%" alt="7."/>
 </p>
 
 Once you're connected to ProtonVPN, go back to WhatIsMyAddress and look at the changes. Notice that the IP address is different and the location. (138.199.21.217 in Tokyo, Japan).
